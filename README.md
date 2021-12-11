@@ -1,2 +1,2 @@
-# CRUD con Express + Mongoose + SocketIO + Typescript
+# CRUD con Express + Mongoose + Typescript
 
